@@ -1,7 +1,6 @@
 # python-api-challenge
  Using Apis to visualize the weather across different cities around the globe
-![image](https://user-images.githubusercontent.com/112128775/196118534-3f6f81ee-0064-452e-bbf6-ed6fd8220b28.png)
-![image](https://user-images.githubusercontent.com/112128775/196118605-20ce2914-da24-4fa9-9e97-a70676e5d549.png)
+
 # python-api-challenge: What's the Weather Like?
 
 ## Background
