@@ -1,11 +1,11 @@
 # Byte-compiled / optimized / DLL files
 ```python
 # Adding config.py file.
-config.py
-```
-config.py
-API_practice.ipynb
-random_numbers.ipynb
+
+WeatherPy/config.py
+VacationPy/config.py
+
+
 
 
 __pycache__/
